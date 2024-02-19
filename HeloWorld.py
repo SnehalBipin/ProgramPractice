@@ -1,5 +1,1 @@
-def my_function():{
-    print("Hello World")
-}
-
-my_function()
+print("Good morning and hello World !")
